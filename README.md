@@ -1,4 +1,4 @@
-# Morse Decoder
+# Enumerable
 
 > ....
 
@@ -16,7 +16,6 @@
 
 👤 **Oyelakin Ridwan Adio**
 
-**Oyelakin Ridwan Adio**
 - GitHub: [@oyelakin](https://github.com/oyelakinG9)
 - Twitter: [@oyelakin](https://twitter.com/OyelakinG1)
 - LinkedIn: [@oyelakin](https://www.linkedin.com/in/oyelakin-ridwan-4b4a02b6/)
